@@ -1,3 +1,0 @@
-DEBUG:main:{'host': '127.0.0.1', 'endpoint': '/', 'response': '{"detail":"Not authenticated"}'}
-DEBUG:main:{'host': '127.0.0.1', 'endpoint': '/', 'response': '{"detail":"Not authenticated"}'}
-DEBUG:main:{'host': '127.0.0.1', 'endpoint': '/health/', 'response': '{"status":"OK"}'}
