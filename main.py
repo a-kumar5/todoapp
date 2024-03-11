@@ -8,7 +8,7 @@ import logging
 app = FastAPI()
 
 logging.basicConfig(
-    filename="/mnt/logs/api_log.log",
+    filename="api_log.log",
     filemode="a",
     level=logging.DEBUG
 )
